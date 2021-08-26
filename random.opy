@@ -18,4 +18,3 @@ Contains various functions for generating random stuff.
 # randomRGBA() -> Color
 # Returns a random color with varying opacity.
 #!define randomRGBA() rgba(random.randint(0, 255), random.randint(0, 255), random.randint(0, 255), random.randint(0, 255))
-
