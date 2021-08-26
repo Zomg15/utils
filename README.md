@@ -1,2 +1,2 @@
 # utils
-A collection of Overpy macros for a variety of useful stuff.
+A collection of Overpy macros and scripts for various stuff of varying usefulness. Still WIP - feel free to suggest new stuff.
